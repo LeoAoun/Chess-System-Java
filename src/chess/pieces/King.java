@@ -1,7 +1,5 @@
 package chess.pieces;
 
-import java.awt.Checkbox;
-
 import boardgame.Board;
 import boardgame.Position;
 import chess.ChessMatch;
